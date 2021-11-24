@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "45456919-78d7-992c-22a1-916a3f4cfaae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Synthetic Organic Chemistry II",
+  "course_description": "This course focuses on general methods and strategies for the synthesis of complex organic molecules. Emphasis is on strategies for stereoselective synthesis, including stereocontrolled synthesis of complex acyclic compounds.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.512",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
